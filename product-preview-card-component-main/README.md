@@ -18,7 +18,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- GITHUB:https://github.com/andrik456/qr-code
+- GITHUB:https://github.com/andrik456/review/tree/main/product-preview-card-component-main
 
 
 ## My process
